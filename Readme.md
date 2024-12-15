@@ -1,12 +1,12 @@
 <h1 align="center">🌌 MD Jouhar Parvez</h1>
-
+🚀 **Software Developer | MERN Stack Specialist | Tech Enthusiast**  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FFCC&center=true&vCenter=true&width=440&height=45&lines=Full-Stack+Developer;MERN+Stack+Expert;AI%2FML+Enthusiast;Cloud+Services+Specialist" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">✨ Welcome to Profile ✨</h2>
+<h2 align="center">✨ Welcome to my GitHub! I’m passionate about building dynamic, responsive, and user-friendly web applications. With over a year of experience, I specialize in frontend and backend development, cloud services, and creating seamless user experiences. ✨</h2>
 
 <p align="center">I’m a versatile <b>Full-Stack Developer</b> specializing in crafting dynamic, scalable, and visually appealing web applications. With hands-on experience in a wide range of technologies, I bridge the gap between design and functionality, delivering seamless digital experiences.</p>
 

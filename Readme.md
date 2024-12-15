@@ -1,58 +1,91 @@
-# 👋 Hello, I'm MD Jouhar Parvez  
+<h1 align="center">🌌 MD Jouhar Parvez</h1>
 
-🚀 **Software Developer | MERN Stack Specialist | Tech Enthusiast**  
-
-Welcome to my GitHub! I’m passionate about building dynamic, responsive, and user-friendly web applications. With over a year of experience, I specialize in frontend and backend development, cloud services, and creating seamless user experiences.  
-
----
-
-## 🔧 **What I Do**  
-- **Frontend Development:**  
-  Creating visually stunning and responsive web interfaces using **React.js**, **Next.js**, **HTML5**, **CSS3**, and **JavaScript**.  
-- **Backend Integration:**  
-  Crafting robust APIs and server-side logic using **Node.js** and managing data with **MongoDB**.  
-- **Cloud Services:**  
-  Configuring **AWS S3, EC2, Route 53, and SSL certifications** for scalable, secure applications.  
-- **Machine Learning & AI:**  
-  Exploring advanced technologies to solve real-world problems efficiently.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FFCC&center=true&vCenter=true&width=440&height=45&lines=Full-Stack+Developer;MERN+Stack+Expert;AI%2FML+Enthusiast;Cloud+Services+Specialist" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📂 **My Projects**  
-### **Restaurant Management System**  
-A comprehensive platform for managing restaurant operations:  
-- Built with **Next.js** and **TypeScript** for enhanced performance.  
-- Designed **menu and order schemas** in MongoDB for smooth data flow.  
-- Created a responsive cart system for better user engagement.  
+<h2 align="center">✨ Welcome to Profile ✨</h2>
 
-### **Custom Wi-Fi User Management System**  
-A solution for seamless Wi-Fi and switch configuration:  
-- Developed a custom captive portal with multiple authentication methods.  
-- Integrated APIs to enable advanced user and device management.  
-- Ensured secure operations through **AWS EC2** and **SSL certificates**.  
+<p align="center">I’m a versatile <b>Full-Stack Developer</b> specializing in crafting dynamic, scalable, and visually appealing web applications. With hands-on experience in a wide range of technologies, I bridge the gap between design and functionality, delivering seamless digital experiences.</p>
 
 ---
 
-## 🎓 **About Me**  
-- 🔍 I’m always exploring new technologies and frameworks to enhance my skill set.  
-- 🌱 Currently diving deeper into **TypeScript**, **PrimeReact**, and **AI/ML models**.  
-- ✨ Fluent in **English**, **Malay**, and **German**.  
+### 🌟 **About Me**
+
+- 💻 Full-Stack Developer with expertise in both frontend and backend development.  
+- 🚀 Passionate about solving real-world problems with innovative technologies.  
+- 🌱 Currently enhancing my skills in **Machine Learning**, **Nest.js**, and **Cloud Architecture**.  
+- 🌍 Fluent in **English**, **Hindi**.  
+- 🌍 beginner in **Japnese**.  
+- 🔧 Always eager to explore new tools and frameworks to stay at the cutting edge.  
 
 ---
 
-## 🎖 **Certifications**  
-- **AWS Fundamentals** (Udemy)  
-- **HTML, CSS, and JavaScript Bootcamp**  
+### 🛠 **Tech Stack**
+
+<div align="center">
+
+#### **Languages & Frameworks**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### **Tools & Platforms**
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 **Let’s Connect!**  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
-- **Email:** [Your Email Address]  
+### 💼 **My Projects**
+  
+#### **1. Restaurant Management System**
+- Built a full-stack platform using **Next.js** and **TypeScript**.
+- Designed a dynamic **cart system** and integrated **MongoDB** for efficient menu and order management.
+- Enhanced the user experience with responsive layouts and creative **grid-based designs**.
+
+#### **2. Custom Wi-Fi User Management System**
+- Developed a custom captive portal supporting multiple authentication methods (e.g., OTP, room-based login).
+- Configured **AWS EC2** for scalable backend services and applied **SSL certification** for secure operations.
+- Improved system reliability with seamless **API integrations**.
+
+#### **3. Machine Learning Models**
+- Created predictive models for anomaly detection using **Python** and **TensorFlow**.
+- Trained and deployed ML algorithms for classification and regression tasks.
 
 ---
 
-### ⚡ **Fun Fact:**  
-I believe great code doesn’t just solve problems—it inspires innovation!  
+### 📈 **GitHub Stats**
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 **Let’s Connect!**
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+**“Great code isn’t just written—it’s designed, built, and inspired!”**

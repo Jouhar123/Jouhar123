@@ -56,10 +56,10 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
-<a href="https://www.djangoproject.com/" target="blank">
+<a href="https://www.djangoproject.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </a>
-<a href="https://tailwindcss.com/" target="blank">
+<a href="https://tailwindcss.com/" target="_blank">
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
 </a>
 

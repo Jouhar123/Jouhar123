@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">✨ Welcome to my GitHub! I’m passionate about building dynamic, responsive, and user-friendly web applications. With over a year of experience, I specialize in frontend and backend development, cloud services, and creating seamless user experiences. ✨</h2>
+<h2 align="center">✨ Welcome to my GitHub!. ✨</h2>
 
 <p align="center">I’m a versatile <b>Full-Stack Developer</b> specializing in crafting dynamic, scalable, and visually appealing web applications. With hands-on experience in a wide range of technologies, I bridge the gap between design and functionality, delivering seamless digital experiences.</p>
 

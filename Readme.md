@@ -111,15 +111,14 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jouhar123&show_icons=true&theme=tokyonight)
-
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" /> -->
-
- 
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" /> --> 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jouhar123&theme=highcontrast)
 
 </p>
 
----
+### 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+
 
 ### 🤝 **Let’s Connect!**
 

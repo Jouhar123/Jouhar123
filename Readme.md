@@ -112,7 +112,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jouhar123&show_icons=true&theme=tokyonight)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" /> -->
+
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=highcontrast)
+
 </p>
 
 ---

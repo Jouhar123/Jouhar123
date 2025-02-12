@@ -119,6 +119,10 @@
 ### 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jouhar123&theme=onedark)
 
+### 🚀 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+
 
 ### 🤝 **Let’s Connect!**
 

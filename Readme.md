@@ -262,7 +262,7 @@ Predictive models for **anomaly detection**, plus trained and deployed classific
 
 <br/>
 
-**"Great code isn't just written. It's designed, built, and inspired!"**
+**"I turn complex problems into clean, scalable code that ships, performs, and lasts."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 

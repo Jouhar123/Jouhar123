@@ -242,7 +242,7 @@ Predictive models for **anomaly detection**, plus trained and deployed classific
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jouhar123&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Jouhar123&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
